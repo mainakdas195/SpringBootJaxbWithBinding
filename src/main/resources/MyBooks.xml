@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:catalog xmlns:ns1="http://www.example.com/BAR" xmlns:ns3="http://www.example.com/FOO">
+    <ns1:book ns1:id="bk101">
+        <AUthor>Sandip Panti</AUthor>
+        <title>Java</title>
+        <genre>Computer</genre>
+        <price>44.95</price>
+        <description>An in-depth</description>
+    </ns1:book>
+    <ns1:book ns1:id="bk102">
+        <AUthor>Arijit Karati</AUthor>
+        <title>Jaxb</title>
+        <genre>Computer</genre>
+        <price>5.95</price>
+        <description>An in-depth</description>
+    </ns1:book>
+</ns3:catalog>

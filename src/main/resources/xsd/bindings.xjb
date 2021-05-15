@@ -1,0 +1,11 @@
+<bindings xmlns="http://java.sun.com/xml/ns/jaxb"
+          xmlns:xs="http://www.w3.org/2001/XMLSchema"
+          version="2.0">
+
+    <bindings schemaLocation="schema3.xsd">
+        <bindings node="//xs:element[@name='AUthor']">
+                <property name="author"/>
+        </bindings>
+    </bindings>
+</bindings>
+
